@@ -1,0 +1,9 @@
+# custom
+.DS_Store
+.idea/
+
+# Dependency directories
+node_modules/
+
+.idea/
+./Documentation
